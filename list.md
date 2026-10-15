@@ -8,3 +8,4 @@
 8. Melhorar o tempo de carregamento das páginas;
 9. Padronizar a identidade visual das páginas;
 10. Revisar a acessibilidade dos elementos da interface.
+11. Criar nova classe para botões no css
