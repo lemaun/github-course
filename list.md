@@ -9,4 +9,5 @@
 9. Padronizar a identidade visual das páginas;
 10. Revisar a acessibilidade dos elementos da interface;
 11. Testar novas funcionalidades;
-12. Criar nova classe para botões no css.
+12. Criar nova classe para botões no css;
+13. Testar funcionaliades.
