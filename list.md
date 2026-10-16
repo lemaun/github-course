@@ -10,3 +10,4 @@
 10. Revisar a acessibilidade dos elementos da interface;
 11. Testar novas funcionalidades;
 12. Criar nova classe para botões no css.
+13. Corrigir texto do banner de cookies;
